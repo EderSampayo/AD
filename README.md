@@ -18,12 +18,7 @@
      $atributos.Attribute3
      ```
 
-   - Especifica el timestamp obtenido
-     ```powershell
-     $timestamp = $atributos.Attribute1
-     ```
-
    - Muestra la fecha y hora en un formato legible
      ```powershell
-     $python .\Desktop\Prueba\nanoseg_a_fecha_AD_param.py $timestamp
+     python .\Desktop\Prueba\nanoseg_a_fecha_AD_param.py $atributos.Attribute1
      ```
