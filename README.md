@@ -1,4 +1,4 @@
-# DirectorioActivo
+# AD
 
 1. **SELECT**
    - Especifica el nombre de usuario o el identificador único (DN)
